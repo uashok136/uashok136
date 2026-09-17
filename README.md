@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 - 🎓 I’m currently studying **Computer Science and Engineering**.
-- 🧠 I’m currently learning about **AI Agents (LangGraph), Machine Learning, and Decentralized Systems**.
-- 💻 I love working with **Python, MongoDB, and Microsoft Fabric**.
+- 🧠 I’m currently learning about **AI Agents , Machine Learning, and Decentralized Systems**.
+- 💻 I love working with **Python, SQL, Java, React.Js, Express.Js, Node.ja, Git&Github**.
 - ⚡ Fun fact: I enjoy DIY repair projects and custom AI image generation in my spare time!
 
 ## 🛠️ Tech Stack & Tools
@@ -24,14 +24,14 @@
 ![Java](https://img.shields.io/badge/Java-363636?style=for-the-badge&logo=Java&logoColor=white)
 
 ### Databases & Data Engineering
-![SQL](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4EA94B?style=for-the-badge&logo=SQL&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N-Sai-kiran-nsk&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-Sai-kiran-nsk&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uashok136&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uashok136&theme=tokyonight" width="48%" />
 </div>
 
 ## 📫 Connect with me
