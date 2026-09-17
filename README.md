@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm U.ASHOK KUMAR 👋
 
-<!--
-**uashok136/uashok136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Computer Science Engineering Student**
+💻 **Full-Stack Developer**
+🚀 **Passionate about Software Development and AI Applications**
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** Java, Python, SQL
+- **Frameworks & Backend:** React.js, Node.js, Express.js
+- **Databases & Tools:** MySQL, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **Disaster Management:** A platform for safety measures at natural or any disasters.
+- **Hospital Management System:** Full-stack healthcare management application with appointment scheduling.
+
+## 📫 Connect With Me
+- 📧 **Email:** uashok136@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/ashok-udumula](https://www.linkedin.com/in/ashok-udumula)
