@@ -19,7 +19,7 @@
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Express.Js](https://img.shields.io/badge/Express>Js-363636?style=for-the-badge&logo=Express.Js&logoColor=white)
+![Express.Js](https://img.shields.io/badge/Express.Js-363636?style=for-the-badge&logo=Express.Js&logoColor=white)
 ![Git & Github](https://img.shields.io/badge/Git&Github-3776AB?style=for-the-badge&logo=Git&Github&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-363636?style=for-the-badge&logo=Java&logoColor=white)
 
