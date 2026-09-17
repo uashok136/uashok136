@@ -19,12 +19,12 @@
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Git & Github](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Express.Js](https://img.shields.io/badge/Express>Js-363636?style=for-the-badge&logo=Express.Js&logoColor=white)
+![Git & Github](https://img.shields.io/badge/Git&Github-3776AB?style=for-the-badge&logo=Git&Github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-363636?style=for-the-badge&logo=Java&logoColor=white)
 
 ### Databases & Data Engineering
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ## 📊 GitHub Stats
