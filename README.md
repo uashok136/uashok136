@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=uashok136&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uashok136&theme=tokyonight" width="48%" />
 </div>
-## Featured Projects
+## FEATURED PROJECTS
 
 ### 🔹 Disaster Management
 Developed a web-based Disaster Management System using Angular, Django, and PostgreSQL to help users access disaster information, emergency alerts, learning resources, and safety quizzes.
