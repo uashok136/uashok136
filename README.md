@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Sai%20Kiran!&fontSize=50&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20U%20ASHOK KUMAR!&fontSize=50&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=51&descAlign=62" />
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
@@ -38,7 +38,7 @@
   <a href="mailto:uashok136@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="linkedin.com/in/ashok-udumula"
+  <a href="linkedin.com/in/ashok-udumula">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
