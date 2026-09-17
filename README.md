@@ -33,6 +33,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=uashok136&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uashok136&theme=tokyonight" width="48%" />
 </div>
+## Featured Projects
+
+### 🔹 Disaster Management
+Developed a web-based Disaster Management System using Angular, Django, and PostgreSQL to help users access disaster information, emergency alerts, learning resources, and safety quizzes.
+**Tech:Angular, Django, PostgreSQ** `` `FastAPI` `PostgreSQL`
+
+[Repository](https://github.com/username/repo) · [Live Demo](https://example.com)
+
+---
+
+### 🔹 Project Name 2
+Short description.
+
+**Tech:** `React` `TypeScript` `Tailwind`
+
+[Repository](https://github.com/username/repo2)
 
 ## 📫 Connect with me
 
