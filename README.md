@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20U%20ASHOKKUMAR!&fontSize=50&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20U%20ASHOK!&fontSize=50&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=51&descAlign=62" />
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
