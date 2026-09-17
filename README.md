@@ -37,18 +37,15 @@
 
 ### 🔹 Disaster Management
 Developed a web-based Disaster Management System using Angular, Django, and PostgreSQL to help users access disaster information, emergency alerts, learning resources, and safety quizzes.
-**Tech:Angular, Django, PostgreSQ** `` `FastAPI` `PostgreSQL`
 
-[Repository](https://github.com/username/repo) · [Live Demo](https://example.com)
+**Tech: Angular, Django, PostgreSQ** 
+[Repository](https://github.com/username/repo) 
 
 ---
 
-### 🔹 Project Name 2
-Short description.
-
-**Tech:** `React` `TypeScript` `Tailwind`
-
-[Repository](https://github.com/username/repo2)
+### 🔹 Hospital Management System
+Full-stack healthcare management application with appointment scheduling and patient management. 
+[Repository](https://github.com/uashok136/HMS)
 
 ## 📫 Connect with me
 
